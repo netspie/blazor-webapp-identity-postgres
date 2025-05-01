@@ -27,4 +27,5 @@ Blazor, .NET 9.0.4, EF Core 9, Identity
 
 ### Links
 
-[MudBlazor Web App with Identity and PostgreSQL](https://github.com/netspie/mudblazor-webapp-identity-postgres)
+[Blazor Web App with Identity, PostgreSQL and MudBlazor](https://github.com/netspie/mudblazor-webapp-identity-postgres)  
+[Blazor Web App with Identity, PostgreSQL, MudBlazor and Tailwind v4](https://github.com/netspie/mudblazor-webapp-identity-postgres-tailwind4)
