@@ -4,7 +4,7 @@ This is a template Blazor Web App project you can use to get your identity setup
 
 ### Tech
 
-Blazor, .NET 9.0.4, Identity
+Blazor, .NET 9.0.4, EF Core 9, Identity
 
 ### Rename Project to Your Own
 
@@ -24,3 +24,7 @@ Blazor, .NET 9.0.4, Identity
 ### Issues
 
 - Classic annoying `NavigationException` on login, register etc. in debug mode just continue when debugging or deselect `Break when this exception type is user-unhandled` in exception window
+
+### Links
+
+[MudBlazor Web App with Identity and PostgreSQL](https://github.com/netspie/mudblazor-webapp-identity-postgres)
