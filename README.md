@@ -19,8 +19,8 @@ Blazor, .NET 9.0.4, Identity
 - Open Visual Studio
 - Add the project to solution
 
-- From command line run dotnet ef database update, considering you have set up your postgres cluster before
+- From command line run `dotnet ef database update`, considering you have set up your postgres cluster before
 
 ### Issues
 
-- Classic annoying `NavigationException` in debug mode just continue when debugging or deselect `Break when this exception type is user-unhandled` in exception window
+- Classic annoying `NavigationException` on login, register etc. in debug mode just continue when debugging or deselect `Break when this exception type is user-unhandled` in exception window
